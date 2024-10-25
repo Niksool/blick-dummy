@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Bame';
+  src: local('Bame'), url('/fonts/Bame.eot') format('eot'),
+    url('/fonts/Bame.woff2') format('woff2'),
+    url('/fonts/Bame.woff') format('woff'), url('/fonts/Bame.ttf') format('ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: local('ProximaNova-Regular'),
+    url('/fonts/ProximaNova-Regular.ttf') format('ttf'),
+    url('/fonts/ProximaNova-Regular.eot') format('eot'),
+    url('/fonts/ProximaNova-Regular.woff') format('woff'),
+    url('/fonts/ProximaNova-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
